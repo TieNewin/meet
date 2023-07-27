@@ -9,3 +9,7 @@ Given the user is not connected to the internet, when the user wants to see the 
 Given the user frequently uses the app, when the user wants to be able to open the app more quickly, then they should be able to add the app as a shortcut to their homescreen.
 
 Given the user is not interested in a specific city, when the user wants to see all events regardless of which city, then they should be able to view a chart that shows every event of every city.
+
+Serverless Functions
+
+I will be using serverless functions to power features that require on-demand processing and scalability. Using serverless functions will provide flexibility for handling loads of event data processing and visualization tasks. Being serverless will allow the app to scale resources as needed, improving user experience during periods of high traffic to the app.
